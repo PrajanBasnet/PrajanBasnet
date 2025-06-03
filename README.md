@@ -1,9 +1,4 @@
 ## Hi there 👋
 
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning javascript
-
+Nobody is superior, nobody is inferior, but nobody is equal either You are you, I am I.
 
